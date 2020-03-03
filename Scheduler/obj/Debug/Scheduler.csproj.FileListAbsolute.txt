@@ -1,0 +1,9 @@
+C:\Git\work\DA\Modules\Scheduler\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+C:\Git\work\DA\Modules\Scheduler\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+C:\Git\work\DA\Modules\Scheduler\Scheduler\Scheduler\bin\Debug\Quartz.dll
+C:\Git\work\DA\Modules\Scheduler\Scheduler\Scheduler\bin\Debug\Quartz.pdb
+C:\Git\work\DA\Modules\Scheduler\Scheduler\Scheduler\bin\Debug\Quartz.xml
+C:\Git\work\DA\Modules\Scheduler\Scheduler\Scheduler\obj\Debug\Scheduler.csprojAssemblyReference.cache
+C:\Git\work\DA\Modules\Scheduler\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.CopyComplete
+C:\Git\work\DA\Modules\Scheduler\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+C:\Git\work\DA\Modules\Scheduler\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
